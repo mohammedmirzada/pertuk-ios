@@ -1,1 +1,0 @@
-# pertuk-ios

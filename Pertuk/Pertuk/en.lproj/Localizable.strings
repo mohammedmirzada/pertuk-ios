@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  Pertuk
+
+  Created by Mohammed D Mirzada on 09/05/2023.
+  
+*/
+
+"over" = "Over 1,500+ Kurdish Books";
+"over_two" = "Programnas Library is a collection of books from other websites and blogs. you can read and download books for free.";
+"books" = "Books";
+"all_books" = "All Books";
+"view_all" = "View All";
+"retry" = "Retry";
+"authors" = "Authors";
+"my_read_books" = "My Read Books";
+"my_read_favourite" = "My Read Favourite Books";
+"log_out" = "Log Out";
+"are_u_sure" = "Are you sure you want to logout?";
+"yes" = "Yes";
+"no" = "No";
+"username_or_email" = "username or email";
+"password" = "Password";
+"login" = "Login";
+"signup" = "Sign Up";
+"to_change_language" = "To change language open:";
+"copyright" = "Copyright";
+"community" = "Community";
+"support" = "Support";
+"privacy" = "Privacy";
+"all_uthors" = "All Authors";
+"read_book_one" = "Read Book One";
+"read_book_two" = "Read Book Two";
+"read_book_three" = "Read Book Three";
+"read_book_four" = "Read Book Four";
+"read_book_five" = "Read Book Five";
+"read_book_six" = "Read Book Six";
+"read_book_seven" = "Read Book Seven";
+"read_book_eight" = "Read Book Eight";
+"read_book_nine" = "Read Book Nine";
+"read_book_ten" = "Read Book Ten";
+"find_" = "Find books...";
+"download_book_one" = "Download Book One";
+"download_book_two" = "Download Book Two";
+"download_book_three" = "Download Book Three";
+"download_book_four" = "Download Book Four";
+"download_book_five" = "Download Book Five";
+"download_book_six" = "Download Book Six";
+"download_book_seven" = "Download Book Seven";
+"download_book_eight" = "Download Book Eight";
+"download_book_nine" = "Download Book Nine";
+"download_book_ten" = "Download Book Ten";
+"name" = "Name";
+"username" = "username";
+"email" = "Email";
+"confirm_password" = "Confirm Password";
+"signup_for" = "Sign Up for Programnas Library";
+"ok" = "OK";
+"delete_account" = "Delete Account";
+"areusuredeleteaccount" = "Are you sure want to delete your account? It cannot be undone!";
+"tepdelete" = "type Delete";
+"confirmdeleteaccount" = "Confirm and delete my account";
+"cancel" = "Cancel";
+"ifsoplease" = "If so, please type [Delete] in the text field to confirm the account deletion and when you press the (Confirm and delete my account) button, immediately your account will be deleted, and logged out of the app.";
+"theconf_werong" = "The confimation word is wrong";
+"pleasetypeagain" = "Please type [Delete] in the text field again.";
+"byclickingsignup" = "By clicking Sign Up button you have agreed to our Terms.";
